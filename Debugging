@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+	<html>
+		<title>This is a Debugging test</title>
+			<body>
+
+<h1>This is a Debugging test</h1>
+
+<script>
+	var A=5;
+	var B=6;
+	var C=A+B;
+console.log(C);
+for (i = 0; i < 5; i++) {
+    console.log(i);
+}
+
+</script>
+
+			</body>
+	</html>
